@@ -1,0 +1,68 @@
+round,region,team_a_name,team_a_seed,team_b_name,team_b_seed,team_a_win_probability,predicted_winner_name
+FirstFour,Midwest,UMBC,16,Howard,16,0.1960159610752843,Howard
+FirstFour,Midwest,Miami (OH),11,SMU,11,0.10258095710871892,SMU
+FirstFour,South,Prairie View A&M,16,Lehigh,16,0.5098839913247755,Prairie View A&M
+FirstFour,West,Texas,11,NC State,11,0.172908608883008,NC State
+R64,East,Duke,1,Siena,16,0.9866566362057452,Duke
+R64,East,Ohio State,8,TCU,9,0.658385918543026,Ohio State
+R64,East,St. John's (NY),5,Northern Iowa,12,0.844961625684878,St. John's (NY)
+R64,East,Kansas,4,California Baptist,13,0.9529514181583644,Kansas
+R64,East,Louisville,6,South Florida,11,0.6856926328731965,Louisville
+R64,East,Michigan State,3,North Dakota State,14,0.7254519537970536,Michigan State
+R64,East,UCLA,7,UCF,10,0.9221895566775304,UCLA
+R64,East,UConn,2,Furman,15,0.9832191799889104,UConn
+R64,South,Florida,1,Prairie View A&M,16,0.9830184202367954,Florida
+R64,South,Clemson,8,Iowa,9,0.3995083717397157,Iowa
+R64,South,Vanderbilt,5,McNeese,12,0.9261886082534437,Vanderbilt
+R64,South,Nebraska,4,Troy,13,0.9470663729761506,Nebraska
+R64,South,UNC,6,VCU,11,0.3840502977494328,VCU
+R64,South,Illinois,3,Penn,14,0.9935681091333928,Illinois
+R64,South,Saint Mary's,7,Texas A&M,10,0.5694115508808782,Saint Mary's
+R64,South,Houston,2,Idaho,15,0.9752389199551746,Houston
+R64,West,Arizona,1,LIU,16,0.9873253369836921,Arizona
+R64,West,Villanova,8,Utah State,9,0.04391594261281665,Utah State
+R64,West,Wisconsin,5,High Point,12,0.9128990552323707,Wisconsin
+R64,West,Arkansas,4,Hawaii,13,0.9925250723982618,Arkansas
+R64,West,BYU,6,NC State,11,0.4791019334443704,NC State
+R64,West,Gonzaga,3,Kennesaw State,14,0.8915497635042943,Gonzaga
+R64,West,Miami (FL),7,Missouri,10,0.42248898325545015,Missouri
+R64,West,Purdue,2,Queens (NC),15,0.9962943497443862,Purdue
+R64,Midwest,Michigan,1,Howard,16,0.999995445055164,Michigan
+R64,Midwest,Georgia,8,Saint Louis,9,0.25680065342046177,Saint Louis
+R64,Midwest,Texas Tech,5,Akron,12,0.5173829760746435,Texas Tech
+R64,Midwest,Alabama,4,Hofstra,13,0.42829637056218534,Hofstra
+R64,Midwest,Tennessee,6,SMU,11,0.5,SMU
+R64,Midwest,Virginia,3,Wright State,14,0.9622187666115852,Virginia
+R64,Midwest,Kentucky,7,Santa Clara,10,0.3578406225098607,Santa Clara
+R64,Midwest,Iowa State,2,Tennessee State,15,0.9954389315038351,Iowa State
+R32,East,Duke,1,Ohio State,8,0.7450869090648292,Duke
+R32,East,St. John's (NY),5,Kansas,4,0.6615840632264864,St. John's (NY)
+R32,East,Louisville,6,Michigan State,3,0.40901232727811493,Michigan State
+R32,East,UCLA,7,UConn,2,0.5530572533453748,UCLA
+R32,South,Florida,1,Iowa,9,0.6627282743489336,Florida
+R32,South,Vanderbilt,5,Nebraska,4,0.8318941679215209,Vanderbilt
+R32,South,VCU,11,Illinois,3,0.4646981068058028,Illinois
+R32,South,Saint Mary's,7,Houston,2,0.09921068176256836,Houston
+R32,West,Arizona,1,Utah State,9,0.7688249825757244,Arizona
+R32,West,Wisconsin,5,Arkansas,4,0.2800892014019703,Arkansas
+R32,West,NC State,11,Gonzaga,3,0.4722410417183522,Gonzaga
+R32,West,Missouri,10,Purdue,2,0.03763460880281825,Purdue
+R32,Midwest,Michigan,1,Saint Louis,9,0.9727112636075939,Michigan
+R32,Midwest,Texas Tech,5,Hofstra,13,0.7127783626333444,Texas Tech
+R32,Midwest,SMU,11,Virginia,3,0.311314700260762,Virginia
+R32,Midwest,Santa Clara,10,Iowa State,2,0.27523171923243234,Iowa State
+S16,East,Duke,1,St. John's (NY),5,0.515337402821526,Duke
+S16,East,Michigan State,3,UCLA,7,0.1269678327624902,UCLA
+S16,South,Florida,1,Vanderbilt,5,0.3771755645382601,Vanderbilt
+S16,South,Illinois,3,Houston,2,0.12964166928309415,Houston
+S16,West,Arizona,1,Arkansas,4,0.7191191750250803,Arizona
+S16,West,Gonzaga,3,Purdue,2,0.07933941108036446,Purdue
+S16,Midwest,Michigan,1,Texas Tech,5,0.9654729639662093,Michigan
+S16,Midwest,Virginia,3,Iowa State,2,0.2817080184497834,Iowa State
+E8,East,Duke,1,UCLA,7,0.45988780711362287,UCLA
+E8,South,Vanderbilt,5,Houston,2,0.4178500429069852,Houston
+E8,West,Arizona,1,Purdue,2,0.521934546969782,Arizona
+E8,Midwest,Michigan,1,Iowa State,2,0.7442238709871186,Michigan
+F4,Final Four,UCLA,7,Houston,2,0.5709984843336067,UCLA
+F4,Final Four,Arizona,1,Michigan,1,0.4038614289184212,Michigan
+NCG,Championship,UCLA,7,Michigan,1,0.23099656066875968,Michigan
